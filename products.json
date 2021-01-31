@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pomegranates",
+    "description": "Pomegranates",
+    "quantity": "0",
+    "id": "1",
+    "price": "13.00"
+  },
+  {
+    "name": "Oranges",
+    "description": "Oranges",
+    "quantity": "0",
+    "id": "2",
+    "price": "20.00"
+  }
+]
